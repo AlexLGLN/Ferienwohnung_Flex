@@ -11,7 +11,7 @@ h1 {
 }
 
 div.box {
-  border: 3px solid rgb(183, 34, 17);
+  border: 3px solid rgb(21, 14, 14);
   padding: 3px;
 
 }
@@ -20,6 +20,7 @@ div.center {
   border: 2px solid black;
   padding: 2px;
   text-align: center;
+
 }
 
 div.marg {
@@ -40,3 +41,4 @@ div.contact {
 nav {
   text-align: center;
 }
+
